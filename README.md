@@ -98,6 +98,6 @@ On Heroku:
 
 # Repo/Storybook Links
 
-*Main Repo: https://github.com/ucsb-cs156-s22/jpa03-SidMajeti
-*Production: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs/>
-*QA: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs-qa/>
+* Main Repo: https://github.com/ucsb-cs156-s22/jpa03-SidMajeti
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs/>
+* QA: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs-qa/>
