@@ -89,3 +89,8 @@ On Heroku:
 * The SQL database is a postgres database provisioned automatically by Heroku
 * You can reset it with `heroku pg:reset --app app-name-goes-here`
 * More info and instructions for access the SQL prompt are at [docs/postgres-database.md](/docs/postgres-database.md)
+
+
+# Code Cov
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-SidMajeti/branch/master/graph/badge.svg?token=wcbeHmJlec)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-SidMajeti)
