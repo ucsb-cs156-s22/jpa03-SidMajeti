@@ -94,3 +94,10 @@ On Heroku:
 # Code Cov
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-SidMajeti/branch/master/graph/badge.svg?token=wcbeHmJlec)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-SidMajeti)
+
+
+# Repo/Storybook Links
+
+*Main Repo: https://github.com/ucsb-cs156-s22/jpa03-SidMajeti
+*Production: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs/>
+*QA: <https://ucsb-cs156-s22.github.io/jpa03-SidMajeti-docs-qa/>
